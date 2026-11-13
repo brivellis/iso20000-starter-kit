@@ -21,8 +21,3 @@ SMS in Practice: Implementing ISO/IEC 20000-1 walks through every file in 26 sho
 
 - YouTube: [SMS in Practice playlist](https://www.youtube.com/playlist?list=PLVQEEboJlIDI)
 - Udemy (with quizzes): [SMS in Practice](https://www.udemy.com/course/sms-in-practice-implementing-isoiec-20000-1/)
-
-## Updates
-
-- Kit page: [brivellis.com/resources/iso-20000-starter-kit](https://brivellis.com/resources/iso-20000-starter-kit/?utm_source=github&utm_medium=readme&utm_campaign=sms-kit)
-- Follow on LinkedIn: [Brivellis](https://www.linkedin.com/company/brivellis) for new kits and the Briefing.
